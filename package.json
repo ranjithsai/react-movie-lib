@@ -1,5 +1,5 @@
 {
-  "name": "ps-redux",
+  "name": "react-redux",
   "version": "1.0.0",
   "description": "Starter kit for React and Redux Project by Ranjith",
   "scripts": {
@@ -72,6 +72,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coryhouse/pluralsight-redux-starter"
+    "url": ""
   }
 }
